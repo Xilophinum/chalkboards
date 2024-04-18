@@ -1,0 +1,27 @@
+["chalkboard1"] = {
+    label = "Chalkboard - Floor Stand",
+    weight = 5000,
+    stack = false,
+    description = "A chalkboard on a stand.",
+},
+
+["chalkboard2"] = {
+    label = "Chalkboard - Wall Mount",
+    weight = 5000,
+    stack = false,
+    description = "A chalkboard mounted to a wall.",
+},
+
+["chalkboard3"] = {
+    label = "Chalkboard - Square",
+    weight = 5000,
+    stack = false,
+    description = "A square chalkboard.",
+},
+
+["chalkboard4"] = {
+    label = "Chalkboard - Vertical Frameless",
+    weight = 5000,
+    stack = false,
+    description = "A frameless vertical chalkboard.",
+},
