@@ -4,7 +4,8 @@ A FiveM chalkboard system using DUI's and placed objects
 
 ## Video Example
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/heh9gg?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+https://github.com/Xilophinum/chalkboards/assets/44152393/c2be5efb-54cd-4323-b487-04d9e7f3c096
+
 
 [Streamable Link](https://streamable.com/heh9gg)
 
