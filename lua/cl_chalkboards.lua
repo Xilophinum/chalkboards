@@ -171,7 +171,7 @@ RegisterNetEvent("chalkboards:client:setChalkboardContent", function(data)
         if state.owner == PlayerData.citizenid then
             SendNUIMessage({
                 action = "editChalkboard",
-                content = state.chalkboardcontent
+                content = BoardsCreated[state.chalkboardid]?.content or "Text here..."
             })
             SetNuiFocus(true, true)
             p = promise.new()
