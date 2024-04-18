@@ -33,3 +33,5 @@ After placement, you can target the board to interact with a WYSIWYG text editor
 - Biggest problem is the use of chalkboards by two people, with the same model, around the radius of each other. This uses the ``AddReplaceTexture`` native, which means whoever edited last would overwrite the texture of the others board when nearby. This shouldnt be an issue if your player owned businesses are placing boards across town from each other, or outside the designated radius zone that is created when a board is placed.
 
 - Prop 3/Chalkboard3 has its origin in the center of what seems to be a sphere, making it nearly impossible to place or be used with this resource.
+
+- When placing objects, based on the surface the raycast is hitting, your object will blink in and out of existence. If you finish placement and the object is not visible, it will stay that way, and you will essentially "lose" the item. Unsure of a way to resolve. 
