@@ -1,4 +1,4 @@
-local QBCore = exports['qbx-core']:GetCoreObject()
+local QBCore = exports['qb-core']:GetCoreObject()
 
 AddEventHandler('onResourceStart', function(resource)
     if resource == GetCurrentResourceName() then
