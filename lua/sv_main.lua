@@ -1,4 +1,4 @@
-local QBCore = exports['qbx-core']:GetCoreObject()
+local QBCore = exports['qb-core']:GetCoreObject()
 BoardsCreated = {}
 
 QBCore.Functions.CreateUseableItem("chalkboard1", function(source, item)
